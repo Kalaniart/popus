@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+"# kalaniApp" 
+"# kalaniApp" 
+=======
 # Popus
 
 Popus es una aplicación diseñada para proporcionar una plataforma de calificación y comentarios anónimos para usuarios de Facebook. Los usuarios pueden buscar personas por su nombre de usuario de Facebook y dejarlas calificaciones y comentarios anónimos.
@@ -18,3 +22,4 @@ Para instalar y ejecutar la aplicación, sigue estos pasos:
    ```bash
    git clone https://github.com/Kalaniart/popus.git
    cd popus
+>>>>>>> 2bb9effb1216da5d52b667f45f707dc2a98997ee
